@@ -1,0 +1,1 @@
+export { default as My_logo } from "./My_logo.svg"
